@@ -8,6 +8,7 @@
     "test": "jest"
   },
   "keywords": [],
+  "repository": "git://github.com/formbased/node-sdk.git",
   "license": "MIT",
   "devDependencies": {
     "@types/jest": "^29.5.4",
